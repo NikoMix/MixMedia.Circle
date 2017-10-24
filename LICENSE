@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Niko
+Copyright (c) 2017 Niko Mix
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Target of this License is the Code inside this Reposiotry and this code only.
+Everything targeted by this Wrapper is sole property of Logitech and/or their Partners
+and not targeted / included in this License. By using this Software you take sole 
+responsibility to aquire permission and allowance to call the targeted API's and
+for usage of the returned Contents.
