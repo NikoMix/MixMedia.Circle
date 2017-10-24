@@ -1,0 +1,2 @@
+# MixMedia.Circle
+This is a non-offical C# wrapper around the logitech Video API - which I mainly used and tested with my own Circle 2. There is no - as far as I know - offical Documentation or similiar and Endpoints used by this wrapper have only been identified by using the offical Logitech Applications. I do not take liability or responsibility by using this library or the API itself. I have no explicit permission to use the API.
